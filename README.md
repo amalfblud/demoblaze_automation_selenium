@@ -9,5 +9,4 @@
 * IntelliJ
 
 ## Project Structure
-* **scripts:** Contains Selenium IDE .side files.
-* **java :** Contains exported Java scripts for test execution.
+* **java :** Contains Java scripts for test execution.
